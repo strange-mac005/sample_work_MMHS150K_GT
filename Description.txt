@@ -1,0 +1,5 @@
+The csv files have the category split into 3 individual parts as 3 were concatenated in one field and has 6 catogory.
+save_to_npz_data.py was used to save preprocessed data to npz.
+npz file contains images resized to  80x80 and converted to grayscale json in the actual dataset is converted to csv via json_to_csv.py file.
+CNN and Ann are used on images.
+Text processing will aslo be done soon.
